@@ -96,7 +96,6 @@ The report joins all tables and displays information including:
 - Total order amount
 - Payment method and status (filtered to show only successful payments)
 
-![Sample Report](sample_report.png)
 
 ## License
 
